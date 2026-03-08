@@ -3,11 +3,11 @@
 Answer each question in 3 to 5 sentences. Be specific and honest about what actually happened while you worked. This is about your process, not trying to sound perfect.
 
 ## 1. What was broken when you started?
-
 - What did the game look like the first time you ran it?
 - List at least two concrete bugs you noticed at the start  
   (for example: "the secret number kept changing" or "the hints were backwards").
 
+Answer: It will ask you to go lower despite the number being correct being higher, switching difficulties still shows it as 1-100, and the secret (the answer) is the same. What suprised me was the max attempt number still being able to change. The loading screen and other functions like display color or print still work ok. Hints were also useless. New Game button also doesn't work.
 ---
 
 ## 2. How did you use AI as a teammate?
